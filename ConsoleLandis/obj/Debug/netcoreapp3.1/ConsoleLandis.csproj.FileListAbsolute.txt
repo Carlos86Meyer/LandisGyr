@@ -1,0 +1,13 @@
+C:\Users\carlo\Desktop\Fontes\JOBs\Landis+Gyr\ConsoleLandis\obj\Debug\netcoreapp3.1\ConsoleLandis.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Fontes\JOBs\Landis+Gyr\ConsoleLandis\obj\Debug\netcoreapp3.1\ConsoleLandis.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Fontes\JOBs\Landis+Gyr\ConsoleLandis\obj\Debug\netcoreapp3.1\ConsoleLandis.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Fontes\JOBs\Landis+Gyr\ConsoleLandis\obj\Debug\netcoreapp3.1\ConsoleLandis.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Fontes\JOBs\Landis+Gyr\ConsoleLandis\bin\Debug\netcoreapp3.1\ConsoleLandis.exe
+C:\Users\carlo\Desktop\Fontes\JOBs\Landis+Gyr\ConsoleLandis\bin\Debug\netcoreapp3.1\ConsoleLandis.deps.json
+C:\Users\carlo\Desktop\Fontes\JOBs\Landis+Gyr\ConsoleLandis\bin\Debug\netcoreapp3.1\ConsoleLandis.runtimeconfig.json
+C:\Users\carlo\Desktop\Fontes\JOBs\Landis+Gyr\ConsoleLandis\bin\Debug\netcoreapp3.1\ConsoleLandis.runtimeconfig.dev.json
+C:\Users\carlo\Desktop\Fontes\JOBs\Landis+Gyr\ConsoleLandis\bin\Debug\netcoreapp3.1\ConsoleLandis.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Landis+Gyr\ConsoleLandis\bin\Debug\netcoreapp3.1\ConsoleLandis.pdb
+C:\Users\carlo\Desktop\Fontes\JOBs\Landis+Gyr\ConsoleLandis\obj\Debug\netcoreapp3.1\ConsoleLandis.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Landis+Gyr\ConsoleLandis\obj\Debug\netcoreapp3.1\ConsoleLandis.pdb
+C:\Users\carlo\Desktop\Fontes\JOBs\Landis+Gyr\ConsoleLandis\obj\Debug\netcoreapp3.1\ConsoleLandis.genruntimeconfig.cache
